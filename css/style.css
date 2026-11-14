@@ -40,7 +40,7 @@ body{
 }
 
 .banner{
-    background-image: url("img/Logo CM em órbitas moleculares.png");
+    background-image: url("../img/Logo CM em órbitas moleculares.png");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
